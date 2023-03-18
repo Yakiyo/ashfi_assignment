@@ -1,3 +1,6 @@
+/**
+ * Find wether a number is an armstrong number
+*/
 #include <stdio.h>
 #include <math.h>
 
